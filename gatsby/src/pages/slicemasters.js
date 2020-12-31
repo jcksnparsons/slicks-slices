@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function SlicemastersPage() {
+export default function SliceMastersPage() {
   return (
-    <div>
-      <p>This is where our "slicemasters" page will be.</p>
-    </div>
+    <>
+      <p>This is where our slicemasters page will be.</p>
+    </>
   );
 }

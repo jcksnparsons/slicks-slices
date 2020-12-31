@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function PizzasPage() {
+export default function PizzaPage() {
   return (
-    <div>
-      <p>This is where our pizzas page will be.</p>
-    </div>
+    <>
+      <p>This is where our pizza page will be.</p>
+    </>
   );
 }
